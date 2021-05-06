@@ -1,0 +1,7 @@
+
+1. Download and install BFB:
+
+https://www.mellanox.com/eula/blue-os?mtag=bluefield_sw_drivers&mrequest=downloads&mtype=BlueField&mver=BFBs&mname=Ubuntu20.04&mfile=DOCA_v1.0_BlueField_OS_Ubuntu_20.04-5.3-1.0.0.0-3.6.0.11699-1-aarch64.bfb
+
+2. $ ./build.sh
+3. $ ./run-test.sh
